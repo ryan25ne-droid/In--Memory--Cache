@@ -1,0 +1,20 @@
+# Compiled binaries
+*.out
+*.exe
+*.o
+*.obj
+*.app
+
+# Executable output files
+cache_engine
+main
+
+# IDE & OS specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+bin/
